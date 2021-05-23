@@ -58,12 +58,3 @@ body{
     border-bottom: 2px solid rgb(185, 169, 23);
   }
   
-.box {
-    width: 40%;
-    height: auto;
-  }
-  
-.box_50 {
-    width: 50%;
-    height: auto;
-  }
