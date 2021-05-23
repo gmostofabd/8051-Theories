@@ -26,35 +26,41 @@ body{
 #root_cont{
     width:350px; height:auto; 
     margin: auto;
-    padding: 0px;
-    background-color:#a55e16;
-
+    padding: auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top: 2px solid #ede8c2ff;
+    background-color: #ddd9b5ff;
   }
 
 #header_common{
     width:350px; height:auto; 
     margin: auto;
-    background-color:#FFEEDD;
   }
    
 #topic_container{
-    width:310px; height:auto; 
-    margin: auto;
+    width:310px; height:auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 20px;
     text-align: center; 
     border-radius: 15px;
-    border: 1px solid #2b2c29;
+    border: 1px solid #ede8c2ff;
     background-color:#ddd9b5ff;
   /*	border: 1px solid #73AD21;
       background-color:#ddd9b5ff; */
   }
   
 .capt_cont{
-    width: auto; height: auto;
+    width: 80%; height: 30px;
+    margin: auto;
+    margin-top: 20px;
     padding: 10px;
     text-align: center;
     color: rgb(112, 108, 108);
-    background-color: #ede8c2ff;
-    border-bottom: 2px solid rgb(185, 169, 23);
+    border-bottom: 2px solid rgb(216, 209, 141);
+    border-radius: 15px;
   }
   
